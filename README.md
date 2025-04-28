@@ -1,4 +1,4 @@
-# 📝 ToDo List App - Flutter (Resumen)
+# 📝 ToDo List App - Flutter
 
 Este proyecto es una aplicación móvil desarrollada en **Flutter** que permite a los usuarios gestionar una **lista de tareas** de manera práctica y rápida.  
 La app incluye funciones básicas como **agregar tareas**, **marcarlas como completadas** y **eliminarlas** en una interfaz sencilla y moderna.
